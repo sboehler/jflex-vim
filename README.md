@@ -1,2 +1,3 @@
 # jflex-vim
-VIM indent file for JFlex
+
+JFlex VIM indentation from http://jflex.de/vim.html
